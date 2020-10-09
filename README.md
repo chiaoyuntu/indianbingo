@@ -20,17 +20,19 @@ again.
 
 ## Building Projects with Gradle
 ### Prerequisites
-* Gradle runs on all major operating systems and requires only a Java Development Kit version 8 or higher to run. To check, run java -version.
+* Gradle runs on all major operating systems and requires only a Java Development Kit version 8 or higher to run. 
+* To check, run java -version.
 
 ### Install Gradle
-* Homebrew is "the missing package manager for macOS".
+Installing with a package manager **Homebrew** for macOS .
+
 `brew install gradle`
 
 ### Execute the build
 `./gradlew build`
 
 ### Run the application
-`/gradlew run`
+`./gradlew run`
 
 ### How to play
 1. Input stage and limitation
