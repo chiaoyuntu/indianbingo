@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.immutables/value/2.7.1/7879e75c53074fd8cbbe014bfa5e8689f8c565ae/value-2.7.1.jar" />
+        </processorPath>
+        <module name="indianbingo.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>
